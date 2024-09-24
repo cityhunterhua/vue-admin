@@ -10,7 +10,7 @@
     "publish": "vue-cli-service build && vue-cli-service build --mode test"
   },
   "dependencies": {
-    "@babel/plugin-proposal-optional-chaining": "^7.9.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.1",
